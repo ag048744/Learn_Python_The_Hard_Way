@@ -1,2 +1,2 @@
 Test
-![cat][/Attachments/Cat.gif]
+![cat][/Attachments/cat.gif]
